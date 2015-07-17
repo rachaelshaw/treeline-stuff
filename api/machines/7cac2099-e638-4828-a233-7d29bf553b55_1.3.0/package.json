@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "machinepack-pokemon": "1.3.0"
+  },
+  "machinepack": {
+    "machines": []
+  }
+}
