@@ -1,7 +1,7 @@
 <div ng-app="Pokemon" ng-controller="PokeCtrl">
   <form ng-submit="getPokemon()">
     <label for="id">Type a number 1-150</label>
-    <input type="text ng-model="pokemonId">
+    <input type="text" ng-model="pokemonId">
     <input type="submit" value="Get Pokemon">
   </form>
 	<div ng-show="pokemon">
